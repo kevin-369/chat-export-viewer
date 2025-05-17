@@ -1,0 +1,29 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+.venv/
+env/
+ENV/
+
+# Ignore export artifacts
+/exports/*.pdf
+/exports/*.docx
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore font and archive files
+*.ttf
+*.zip
+*.tar.gz
+
+# Ignore test files and sample exports
+/sample/*.pdf
+/sample/*.docx
+
+# Optional: ignore user data
+*.json

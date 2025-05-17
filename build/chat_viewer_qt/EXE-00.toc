@@ -1,0 +1,876 @@
+('F:\\google chat converter\\dist\\chat_viewer_qt.exe',
+ False,
+ False,
+ False,
+ ['F:\\google chat converter\\icon.ico'],
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'F:\\google chat converter\\build\\chat_viewer_qt\\chat_viewer_qt.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'F:\\google chat converter\\build\\chat_viewer_qt\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'F:\\google chat converter\\build\\chat_viewer_qt\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'F:\\google chat '
+   'converter\\build\\chat_viewer_qt\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'F:\\google chat '
+   'converter\\build\\chat_viewer_qt\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'F:\\google chat '
+   'converter\\build\\chat_viewer_qt\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'F:\\google chat '
+   'converter\\build\\chat_viewer_qt\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside6',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyside6.py',
+   'PYSOURCE'),
+  ('chat_viewer_qt',
+   'F:\\google chat converter\\chat_viewer_qt.py',
+   'PYSOURCE'),
+  ('python312.dll',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qgif.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qsvg.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qminimal.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qwebp.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qoffscreen.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qicns.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qwindows.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qico.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qtga.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qpdf.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qtiff.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PySide6\\opengl32sw.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\opengl32sw.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qschannelbackend.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qschannelbackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qopensslbackend.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qopensslbackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('lxml\\sax.cp312-win_amd64.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\sax.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\objectify.cp312-win_amd64.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\objectify.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\diff.cp312-win_amd64.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\html\\diff.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('lxml\\builder.cp312-win_amd64.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\builder.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\_elementpath.cp312-win_amd64.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\_elementpath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\etree.cp312-win_amd64.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\etree.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtGui.pyd',
+   'f:\\google chat converter\\.venv\\Lib\\site-packages\\PySide6\\QtGui.pyd',
+   'EXTENSION'),
+  ('shiboken6\\Shiboken.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\shiboken6\\Shiboken.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtNetwork.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtCore.pyd',
+   'f:\\google chat converter\\.venv\\Lib\\site-packages\\PySide6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtWidgets.pyd',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Core.dll',
+   'F:\\google chat converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Core.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Gui.dll',
+   'F:\\google chat converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Gui.dll',
+   'BINARY'),
+  ('shiboken6\\MSVCP140.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\shiboken6\\MSVCP140.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Network.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Network.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Svg.dll',
+   'F:\\google chat converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Svg.dll',
+   'BINARY'),
+  ('PySide6\\Qt6VirtualKeyboard.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6VirtualKeyboard.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Pdf.dll',
+   'F:\\google chat converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Pdf.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Widgets.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Widgets.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('PySide6\\VCRUNTIME140.dll',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\python3.dll',
+   'BINARY'),
+  ('PySide6\\VCRUNTIME140_1.dll',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide6\\pyside6.abi3.dll',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\pyside6.abi3.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140.dll',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140.dll',
+   'BINARY'),
+  ('shiboken6\\shiboken6.abi3.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\shiboken6\\shiboken6.abi3.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140_2.dll',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140_2.dll',
+   'BINARY'),
+  ('shiboken6\\VCRUNTIME140.dll',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('shiboken6\\VCRUNTIME140_1.dll',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140_1.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Quick.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Quick.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Qml.dll',
+   'F:\\google chat converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6Qml.dll',
+   'BINARY'),
+  ('PySide6\\Qt6OpenGL.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6OpenGL.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlModels.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlModels.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlMeta.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlMeta.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlWorkerScript.dll',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\Qt6QmlWorkerScript.dll',
+   'BINARY'),
+  ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\docProps\\thumbnail.jpeg',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\thumbnail.jpeg',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\settings.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\settings.xml',
+   'DATA'),
+  ('docx\\templates\\default-header.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-header.xml',
+   'DATA'),
+  ('docx\\py.typed',
+   'f:\\google chat converter\\.venv\\Lib\\site-packages\\docx\\py.typed',
+   'DATA'),
+  ('docx\\templates\\default-settings.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-settings.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\document.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\document.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\numbering.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\numbering.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\theme\\theme1.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\theme\\theme1.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\styles.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\styles.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\_rels\\document.xml.rels',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\_rels\\document.xml.rels',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\docProps\\core.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\core.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\customXml\\item1.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\item1.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\docProps\\app.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\app.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\stylesWithEffects.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\stylesWithEffects.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\_rels\\.rels',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\_rels\\.rels',
+   'DATA'),
+  ('docx\\templates\\default-footer.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-footer.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\[Content_Types].xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\[Content_Types].xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\fontTable.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\fontTable.xml',
+   'DATA'),
+  ('docx\\templates\\default-styles.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-styles.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\customXml\\itemProps1.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\itemProps1.xml',
+   'DATA'),
+  ('docx\\templates\\default.docx',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default.docx',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\webSettings.xml',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\webSettings.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\customXml\\_rels\\item1.xml.rels',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\_rels\\item1.xml.rels',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_tr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ko.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_TW.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_uk.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_CN.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ar.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_uk.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_cs.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ca.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sk.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sk.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_en.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ka.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nn.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_en.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_he.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lv.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_es.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ar.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_de.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_pl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_cs.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_fr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ko.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_gd.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_tr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_de.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ja.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sv.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nn.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_TW.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_PT.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_PT.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_it.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_de.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_es.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_hr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_it.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ca.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_uk.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ar.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_da.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hu.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_pt_BR.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_tr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lt.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nn.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_bg.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ka.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ka.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fa.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_hu.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ru.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ja.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ca.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_da.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_lv.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_sk.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_gd.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ru.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_CN.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_gl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ja.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_da.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_pt_BR.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_zh_CN.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_bg.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fi.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_zh_TW.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fi.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_it.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ru.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ko.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_cs.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_BR.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_pl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_bg.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_en.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hr.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fa.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_he.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hu.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_es.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_gl.qm',
+   'F:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('base_library.zip',
+   'F:\\google chat converter\\build\\chat_viewer_qt\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1747498350,
+ [('runw.exe',
+   'f:\\google chat '
+   'converter\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\owner\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll')

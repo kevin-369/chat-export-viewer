@@ -1,0 +1,7 @@
+✅ `requirements.txt`
+
+```txt
+PySide6
+python-docx
+python-dateutil
+```
